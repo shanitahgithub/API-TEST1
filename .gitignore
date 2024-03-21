@@ -1,0 +1,7 @@
+_pycache__/config.cpython-312.pyc
+authors_app/models/__pycache__/
+__pycache__/
+author_env/
+authors_app/__pycache__/
+authors_app/controllers/auth/__pycache__/
+migrations/__pycache__/
